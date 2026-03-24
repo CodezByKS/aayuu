@@ -2,11 +2,11 @@
   <img height="600" src="./banner.png" />
 </div>
 
-<h1 align="center">Hey 👋 I am Krishna Sahu</h1>
+<h1 align="center">Hey 👋 I am kishan sahu</h1>
 <h3 align="center">🚀 CodezByKS | Full Stack Developer from India</h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodezByKS.profile&left_text=Profile%20Views" />
+  <img src="PROFESSION.jpeg"/>
 </div>
 
 ---
